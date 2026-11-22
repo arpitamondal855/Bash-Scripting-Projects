@@ -13,6 +13,6 @@ A structured collection of interactive, menu-driven command-line applications wr
 | ID | Project | Description | Key Bash Features |
 | :--- | :--- | :--- | :--- |
 | **01** | [**Student Result System**](./1-Student-result-management-system) | Manages academic records, computes letter grades, performs case-insensitive lookups, and evaluates scholarship eligibility. | Parallel Arrays, Command Substitution, Parameter Expansion (`,,`), `case` Routing |
-| **02** | [**Product Inventory System**](./02-Product-Inventory-System) | Tracks product catalog pricing, prevents duplicate entries, and filters items by minimum discount thresholds. | Nameref Pass-by-Reference (`local -n`), Dynamic Array Appending (`+=`), Arithmetic Evaluation |
+| **02** | [**Product Inventory System**](./2-Product-management-system) | Tracks product catalog pricing, prevents duplicate entries, and filters items by minimum discount thresholds. | Nameref Pass-by-Reference (`local -n`), Dynamic Array Appending (`+=`), Arithmetic Evaluation |
 
 ---
